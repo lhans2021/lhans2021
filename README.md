@@ -2,10 +2,10 @@
 - 👀 I’m interested in Computer Science and Martial Arts 
 - 🌱 I’m currently learning how to program in Python 
 - 💞️ I’m looking to collaborate on programming projects for class and for other purposes
-- 📫 How to reach me
-  Email: hli221@binghamton.edu
-  Instagram: @colonel_hans06
-  Snapchat: hl0806
+- 📫 How to reach me: 
+  Email: hli221@binghamton.edu;
+  Instagram: @colonel_hans06; and 
+  Snapchat: hl0806. 
   Feel free to add my contacts and reach out at anytime! Looking forward to working with you. 
 
 <!---
