@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hans.
-- 👀 I’m interested in Computer Science and Martial Arts 
+- 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning how to program in Python 
 - 💞️ I’m looking to collaborate on programming projects for class and for other purposes
 - 📫 How to reach me: 
