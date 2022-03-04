@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hans.
-- 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning how to program in Python 
-- 💞️ I’m looking to collaborate on  projects
+- 👀 I'm a student studying Computer Science at Binghamton University.
+- 🌱 I’m currently looking to expand my knowledge of various programming langauges, primarily Python.
+- 💞️ I’m looking to collaborate on projects together.
 
 <!---
 lhans2021/lhans2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
