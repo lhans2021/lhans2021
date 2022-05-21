@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hans.
 - 👀 I'm a student studying Computer Science at Binghamton University.
-- 🌱 I’m currently looking to expand my knowledge of various programming langauges, primarily Python.
+- 🌱 I’m currently looking to expand my knowledge of various programming langauges, primarily Java and Python.
 - 💞️ I’m looking to collaborate on projects together.
 
 <!---
